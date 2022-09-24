@@ -1,0 +1,29 @@
+    h1{
+        color: teal;
+    }
+    .first{
+            background-color: rgb(223, 5, 49);
+            display: flex;
+            justify-content: space-between;
+    }
+    .third{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+
+    }
+    .fourth{
+            display: flex;
+            justify-content: flex-end;
+    }
+    .second{
+            display: flex;
+            flex-direction: column;
+            justify-content: first baseline;
+    }
+    p,h2{
+        text-align: center;
+    }
+    p{
+        color: rgb(31, 172, 148);
+    }
